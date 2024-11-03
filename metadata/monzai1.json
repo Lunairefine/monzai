@@ -1,0 +1,10 @@
+{
+    "name": "Monzai #1",
+    "image": "https://raw.githubusercontent.com/Lunairefine/monzai/refs/heads/main/monzai1.png",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Human"
+      }
+    ]
+  }
